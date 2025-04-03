@@ -1,8 +1,5 @@
 # 香港免备案CDN深度测评：CDN5为何成为我的最终选择？
 
-```html
-<!DOCTYPE html>
-<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
